@@ -67,3 +67,5 @@ The fifth tab used to display the current value of the weight and bias of the mo
 The last tab is used to predict the weld quality and TSLBC of RSW with the corresponding input from the user. The user is required to insert the input parameters before the process of prediction that based on the developed training algorithm in previous tab.
 
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab6.JPG?raw=true)
+
+##Thank you, let the data drive you...and beyond.
