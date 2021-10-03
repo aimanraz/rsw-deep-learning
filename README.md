@@ -7,8 +7,10 @@
 * Some of the ANN model hyperparameter can be tuned, and some of it have been set to default.
 
 ## Code and Resources Used 
-**Python Version:** 3.7  
+**Python Version:** 3.7
+
 **Packages:** pandas, numpy, sklearn, matplotlib, pyqt5, tensorflow
+
 **GUI development tool:** Qt Designer
 
 ## Data collection
