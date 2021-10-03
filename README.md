@@ -1,4 +1,4 @@
-# Data Science Project Overview 
+# Application Tools For Predicting Resistance Spot Welding Weld Quality Project Overview 
 * Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
 * The data that has been used for this project based on [this research paper.](https://www.sciencedirect.com/science/article/pii/S0261306908001301)
 * This application tool consist of 6 tab which each tab have their own puposes.
