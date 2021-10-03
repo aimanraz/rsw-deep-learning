@@ -49,7 +49,7 @@ The list of hyperparameter available in this tool:
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab3.JPG?raw=true)
 
 ## Train and evaluate the model (Tab 4)
-The fourth tab is used to train and evaluate model performance. The train size of the dataset can be set up on this tab and, the default value is set 80%. This tab shows the value of training and testing accuracy once ANN model completes the training process. The confusion matrix, loss and accuracy graph can be plotted in this tab. 
+The fourth tab is used to train and evaluate model performance. The train size of the dataset can be set up on this tab and, the default value is set to 80%. This tab shows the value of training and testing accuracy once ANN model completes the training process. The confusion matrix, loss and accuracy graph can be plotted in this tab. 
 
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab4.JPG?raw=true)
 
