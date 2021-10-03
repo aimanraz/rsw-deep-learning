@@ -68,4 +68,4 @@ The last tab is used to predict the weld quality and TSLBC of RSW with the corre
 
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab6.JPG?raw=true)
 
-##Thank you, let the data drive you...and beyond.
+let the data drive you...and beyond.
