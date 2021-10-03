@@ -9,7 +9,7 @@
 ## Code and Resources Used 
 **Python Version:** 3.7
 
-**Packages:** pandas, numpy, sklearn, matplotlib, pyqt5, tensorflow, [Tensorflow Levenberg-Marquardt](https://github.com/fabiodimarco/tf-levenberg-marquardt)
+**Packages:** pandas, numpy, sklearn, matplotlib, pyqt5, tensorflow, [Tensorflow Levenberg-Marquardt](https://github.com/fabiodimarco/tf-levenberg-marquardt), pyinstaller
 
 **GUI development tool:** Qt Designer
 
