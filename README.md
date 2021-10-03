@@ -19,12 +19,18 @@ The first tab introduces the front page of the application tools as shown below:
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab1.JPG?raw=true)
 
 ## Data collection
-The RSW dataset used in this study selected from [this research paper](https://www.sciencedirect.com/science/article/pii/S0261306908001301). There are 36 data consists of three inputs with their corresponding output (label). The three input parameters are weld time (cycle), and weld current (kA), electrode force (N). The class value based on input parameters is either Bad, Good, or Worst, with a TSLBC for each data point. Below shows the example of the extracted data.
+There are 36 data consists of three inputs with their corresponding output (label). The three input parameters are weld time (cycle), and weld current (kA), electrode force (N). The class value based on input parameters is either Bad, Good, or Worst, with a TSLBC for each data point. Below shows the example of the extracted data.
+
+![](https://github.com/aimanraz/rsw-deep-learning/blob/main/dataset_img.JPG?raw=true)
 
 ## Data Preprocessing (Tab 2)
 Data pre-processing transforms raw data into an understandable and readable format. According to the dataset, the features scaling method needs to be used since it has many different values between each feature. Feature scaling will normalize the independent variable of data. Since the machine learning model is based on a mathematical equation, categorical data such as BAD, GOOD, and WORST will be encoded into numbers. The TSLBC values must also be normalized to the regular scale without distorting the value ranges' variations.
 
+![](https://github.com/aimanraz/rsw-deep-learning/blob/main/histo_data.JPG?raw=true)
+
 The second tab where user is required to import the input file and pre-process dataset in the input file for further process. In pre-processing, the user can select which type of true value to be pre-processed before setup the ANN model.
+
+![](https://github.com/aimanraz/rsw-deep-learning/blob/main/Tab2.JPG?raw=true)
 
 ## Machine learning modeler (Tab 3)
 The third tab set up the model structures and other essential parameters to implement the ANN model. In this tab, user is required to set up all of the hyperparameter of deep learning model. To add the number of hidden layer, user can simply check (to add layer) or uncheck (to remove layer) the check boxes. 
