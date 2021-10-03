@@ -37,11 +37,11 @@ The second tab where user is required to import the input file and pre-process d
 The third tab set up the model structures and other essential parameters to implement the ANN model. In this tab, user is required to set up all of the hyperparameter of deep learning model. To add the number of hidden layer, user can simply check (to add layer) or uncheck (to remove layer) the check boxes. 
 The list of hyperparameter available in this tool:
 * Number of neuron
-* Number of hidden layer used
-* Type of activation function
-* Type of loss function
-* Metrics
-* Optimizer
+* Number of hidden layer used (only up to 8)
+* Type of activation function (sigmoid/softmax/relu/linear)
+* Type of loss function (MSE/Binary CE/Categorical CE/Sparse CE)
+* Metrics 
+* Optimizer (Batch GD/SGD/Levenberg-Marquardt)
 * Epoch
 * Learning rate
 * Batch size
