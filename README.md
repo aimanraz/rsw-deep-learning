@@ -5,6 +5,7 @@
 * This project used only open-source software and packages.
 * This application tool can only be used on windows platform.
 * Some of the ANN model hyperparameter can be tuned, and some of it have been set to default.
+* This project used supervised learning mechanism.
 
 ## Code and Resources Used 
 **Python Version:** 3.7
