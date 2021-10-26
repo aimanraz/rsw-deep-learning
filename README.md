@@ -8,7 +8,7 @@
 * This project used supervised learning mechanism.
 
 ## Problem Statement
-To obtain the desired weld quality required a lot of cost and time by adjusting the parameter according to the type of material, the thickness of the material, electrode force, welding time, welding resistance, welding current, etc. The welder can determine the desired welding parameter using handbook values or experience. However, it cannot ensure the welding parameter results in near optimal or optimal welding quality characteristics. Therefore, the ANN will solve these problems that are difficult to solve using conventional technologies.
+To obtain the desired weld quality, it required a lot of cost and time by adjusting the parameter according to the type of material, the thickness of the material, electrode force, welding time, welding resistance, welding current, etc. The welder can determine the desired welding parameter using handbook values or experience. However, it cannot ensure the welding parameter results in near optimal or optimal welding quality characteristics. Therefore, the ANN will solve these problems that are difficult to solve using conventional technologies.
 
 ## Code and Resources Used 
 **Python Version:** 3.7
