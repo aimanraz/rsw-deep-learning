@@ -1,5 +1,5 @@
 # Project Overview 
-* Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
+* Developed an application tool that use deep learning (Multilayer perceptron) to predict the weld quality of resistance spot welding. 
 * The data that has been used for this project based on [this research paper.](https://www.sciencedirect.com/science/article/pii/S0261306908001301)
 * This application tool consist of 6 tab which each tab have their own puposes.
 * This project used only open-source software and packages.
@@ -8,7 +8,7 @@
 * This project used supervised learning mechanism.
 
 ## Problem Statement
-To obtain the desired weld quality, it required a lot of cost and time by adjusting the parameter according to the type of material, the thickness of the material, electrode force, welding time, welding resistance, welding current, etc. The welder can determine the desired welding parameter using handbook values or experience. However, it cannot ensure the welding parameter results in near optimal or optimal welding quality characteristics. Therefore, the ANN will solve these problems that are difficult to solve using conventional technologies.
+To obtain the desired weld quality, it required a lot of cost and time by adjusting the parameter according to the type of material, the thickness of the material, electrode force, welding time, welding resistance, welding current, etc. The welder can determine the desired welding parameter using handbook values or experience. However, it cannot ensure the welding parameter results in near optimal or optimal welding quality characteristics. Therefore, the artificial neural network (ANN) will solve these problems that are difficult to solve using conventional technologies.
 
 ## Code and Resources Used 
 **Python Version:** 3.7
